@@ -23,4 +23,4 @@ companies.
 [Podcast](https://mllabs.com/podcast) ·
 [Newsletter](https://mllabs.com/newsletter)
 
-**Talk through your workflow in a free 15-minute call: https://mllabs.com/contact**
+**Book a 15-minute call on your workflow: https://mllabs.com/contact**
