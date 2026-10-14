@@ -1,8 +1,7 @@
 ## Let workflows run themselves.
 
-Get the software that connects your people and your systems built, run and
-improved for you, one workflow at a time: AI engineering for ambitious
-companies.
+Your people and your systems work as one, a workflow at a time, with each
+verified change in production within minutes.
 
 | Engagement | What it is | Price |
 | --- | --- | --- |
@@ -10,7 +9,7 @@ companies.
 | [Engineering](https://mllabs.com/services) | Your software built and improved, shipped continuously | $30,000 / month |
 | [Product](https://mllabs.com/services) | Your large system delivered for one agreed price | $500,000+ fixed |
 
-**Open source**: small, tested patterns for AI in your operations and finance.
+**Open source**: run each one today on synthetic data, with no dependencies.
 
 | Repository | What it does |
 | --- | --- |
